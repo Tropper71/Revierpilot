@@ -1,20 +1,20 @@
 {
  "format": "revierbuch-rechtsdaten",
- "version": "2026-11-10.3",
- "geprueftAm": "2026-11-10",
+ "version": "2026-11-23.1",
+ "geprueftAm": "2026-11-23",
  "hinweis": "Jagdzeiten Brandenburg = Bundes-Jagdzeitenverordnung (JagdZeitV) mit den Abweichungen aus § 5 BbgJagdDV. Wild ohne festgesetzte Jagdzeit ist nach § 22 Abs. 2 BJagdG ganzjährig zu schonen. Bei ganzjähriger Jagdzeit gilt § 22 Abs. 4 BJagdG (Elterntierschutz). Tierseuchenrechtliche Allgemeinverfügungen (z. B. ASP-Restriktionszonen) und Schutzgebietsverordnungen gehen vor. Kormoran ist in Brandenburg nicht jagdbar; Abschüsse nur nach der Brandenburgischen Kormoranverordnung (BbgKorV): Sonnenaufgang bis -untergang, bis 500 m um Fischereigewässer und Teichwirtschaften, vom 16. März bis 15. August nur immature, nicht brütende Vögel, nicht in Schutzgebieten und befriedeten Bezirken, kein Bleischrot.",
  "quellen": [
   {
    "id": "bbgjagdg",
    "titel": "Jagdgesetz für das Land Brandenburg (BbgJagdG)",
    "url": "https://bravors.brandenburg.de/gesetze/bbgjagdg",
-   "stand": "zuletzt geändert durch § 64 Absatz 2 Satz 1 dieses Gesetzes, Bekanntmachung vom 20. Mai 2026 (GVBl.I/26, [Nr. 17]) (geprüft 10.11.2026, keine neuere Änderung)"
+   "stand": "zuletzt geändert durch § 64 Absatz 2 Satz 1 dieses Gesetzes, Bekanntmachung vom 20. Mai 2026 (GVBl.I/26, [Nr. 17]) (geprüft 23.11.2026, keine neuere Änderung)"
   },
   {
    "id": "bbgjagddv",
    "titel": "Verordnung zur Durchführung des Jagdgesetzes für das Land Brandenburg (BbgJagdDV)",
    "url": "https://bravors.brandenburg.de/verordnungen/bbgjagddv",
-   "stand": "zuletzt geändert durch Artikel 2 des Gesetzes vom 24. März 2026 (GVBl.I/26, [Nr. 8], S.3, ber. GVBl.I/26 [Nr. 10]) (geprüft 10.11.2026, keine neuere Änderung)"
+   "stand": "zuletzt geändert durch Artikel 2 des Gesetzes vom 24. März 2026 (GVBl.I/26, [Nr. 8], S.3, ber. GVBl.I/26 [Nr. 10]) (geprüft 23.11.2026, keine neuere Änderung)"
   },
   {
    "id": "jagdzeitv",
@@ -42,9 +42,15 @@
   },
   {
    "id": "mleuv-wolf",
-   "titel": "MLEUV Brandenburg: Wolfsmanagementplan (Pressetermin 11.11.2026)",
-   "url": "https://mleuv.brandenburg.de/mleuv/de/aktuelles/presseinformationen/detail/~03-11-2026-terminhinweis-pk-wolfsmanagementplan",
-   "stand": "Ankündigung vom 3. November 2026"
+   "titel": "MLEUV Brandenburg: Wolfsmanagementplan in Kraft (Pressemitteilung 229/2026 vom 19.11.2026)",
+   "url": "https://mleuv.brandenburg.de/mleuv/de/aktuelles/presseinformationen/detail/~19-11-2026-wolfsmanagementplan_in_kraft",
+   "stand": "In Kraft seit 19.11.2026"
+  },
+  {
+   "id": "abl-2026-45-wolf",
+   "titel": "Allgemeinverfügung MLEUV: Revierübergreifender Managementplan für die Bejagung der Tierart Wolf vom 3. November 2026 (Amtsblatt für Brandenburg Nr. 45 vom 18.11.2026, S. 943)",
+   "url": "https://bravors.brandenburg.de/fm/76/Amtsblatt%2045_26.pdf",
+   "stand": "Bekannt gemacht 18.11.2026, in Kraft 19.11.2026, befristet bis 03.11.2031"
   }
  ],
  "aenderungen": [
@@ -71,6 +77,10 @@
   {
    "datum": "2026-11-10",
    "text": "Bayern: Jagdzeiten Rotwild nach § 19 Abs. 1 Nr. 1 AVBayJG neu gefasst durch Verordnung zur Änderung der AVBayJG vom 13. Oktober 2026 (GVBl. S. 621), in Kraft seit 31. Oktober 2026: Kälber und Alttiere 16.7. bis 15.1., Schmaltiere und Schmalspießer 1.5. bis 15.1., übrige Hirsche 1.8. bis 15.1. (bisher 1.8./1.6. bis 31.1.). Sachsen: Hinweis auf Bekanntmachung Sachsenforst vom 22.06.2026 (SächsABl. 2026 Nr. 30 S. 620) ergänzt, Graureiher im Jagdjahr 2026/27 nur 16.8. bis 31.1., höchstens 250 Stück. Brandenburg und Bund unverändert (BbgJagdG 20.05.2026, BbgJagdDV 24.03.2026, JagdZeitV 07.03.2018, BJagdG 29.03.2026). Wolfsmanagementplan Brandenburg noch nicht bekannt gemacht (Vorstellung 11.11.2026)."
+  },
+  {
+   "datum": "2026-11-23",
+   "text": "Brandenburg Wolf: Revierübergreifender Managementplan für die Bejagung der Tierart Wolf als Allgemeinverfügung des MLEUV vom 3. November 2026 (Amtsblatt für Brandenburg Nr. 45 vom 18.11.2026, S. 943) seit 19.11.2026 in Kraft, befristet bis 3.11.2031. Keine feste Jagdzeit: Jagd nur in Interventionsgebieten (1,5 km um einen begutachteten Wolfsschaden bei Herdenschutz) für acht Wochen nach Information durch die untere Jagdbehörde, landesweit höchstens zehn Wölfe im Jagdjahr 2026/27, Anzeige- und Probenahmepflichten. Hinweis und Quelle beim Wolf angepasst; Grundsatz § 5 Abs. 3 BbgJagdDV (ganzjährig geschont) unverändert. BbgJagdG (20.05.2026) und BbgJagdDV (24.03.2026) unverändert."
   }
  ],
  "wildarten": [
@@ -696,13 +706,13 @@
    "name": "Wolf",
    "gruppe": "Haarwild",
    "kategorie": "Raubwild",
-   "hinweis": "Kein Aneignungsrecht. Erlegung oder Fund unverzüglich der unteren Jagdbehörde melden. Bundesrecht: Jagdzeit 1.7. bis 31.10. nur mit behördlichem revierübergreifendem Managementplan (§ 22d Abs. 2 BJagdG); Entnahmen bei Schäden nur nach § 22d Abs. 3 BJagdG. Brandenburg: Managementplan als Allgemeinverfügung angekündigt (11.11.2026), bis zur Bekanntmachung keine Jagdzeit (§ 5 Abs. 3 BbgJagdDV). Vor jeder Entnahme die untere Jagdbehörde fragen.",
+   "hinweis": "Grundsatz: ganzjährig geschont (§ 5 Abs. 3 BbgJagdDV), keine feste Jagdzeit. Seit 19.11.2026 gilt die Allgemeinverfügung des MLEUV (oberste Jagdbehörde) \"Revierübergreifender Managementplan für die Bejagung der Tierart Wolf\" vom 3. November 2026 (ABl. Nr. 45 vom 18.11.2026, S. 943), befristet bis 3.11.2031, Grundlage § 22d Abs. 2 BJagdG: Nach einem Schaden an Weidetier oder Herdengebrauchshund (Meldung an die Wolfshotline des LfU binnen 24 Stunden, Feststellung durch Sachverständige Person, geeigneter Herdenschutz) wird ein Interventionsgebiet gebildet (alle Jagdbezirke ganz oder teilweise im Umkreis von 1,5 km um den Schadensort). Nach Information durch die untere Jagdbehörde ist dort die Jagd auf einen adulten oder subadulten Wolf für acht Wochen zulässig (Schonzeit insoweit aufgehoben); sie endet mit der Erlegung. Landesweit höchstens zehn Wölfe im Jagdjahr 2026/27, danach endet die Bejagung in allen Interventionsgebieten. Erlegung, Krankschuss und Totfund unverzüglich der unteren Jagdbehörde (mit GPS-Koordinaten) und der Wolfshotline anzeigen; Untersuchung und Probenahme ermöglichen. Nachtsichttechnik im Interventionsgebiet zulässig. Gilt nicht in bestimmten FFH-Gebieten und auf Bundesflächen. Ohne Information der unteren Jagdbehörde keine Jagd auf den Wolf.",
    "klassen": [
     {
      "id": "alle",
      "name": "Wolf",
      "ranges": "geschont",
-     "quelle": "BbgJagdDV § 5 Abs. 3"
+     "quelle": "BbgJagdDV § 5 Abs. 3; Allgemeinverfügung MLEUV vom 3.11.2026 (ABl. 2026 Nr. 45 S. 943)"
     }
    ]
   },
